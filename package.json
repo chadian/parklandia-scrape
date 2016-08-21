@@ -1,0 +1,15 @@
+{
+  "name": "parklandia-scrape",
+  "version": "1.0.0",
+  "description": "Scrape portland parks data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portland",
+    "parks"
+  ],
+  "author": "Chad Carbert",
+  "license": "MIT"
+}
