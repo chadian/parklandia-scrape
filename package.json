@@ -11,5 +11,12 @@
     "parks"
   ],
   "author": "Chad Carbert",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "node-fetch": "^1.6.0"
+  },
+  "devDependencies": {
+    "node-fetch": "^1.6.0"
+  }
 }
